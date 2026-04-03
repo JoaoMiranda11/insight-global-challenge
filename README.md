@@ -1,1 +1,1 @@
-# insight-global-challenge
+Coffee machine challenge

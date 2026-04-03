@@ -1,0 +1,1 @@
+{"version":3,"file":"coffe-machine.d.ts","sourceRoot":"","sources":["../src/coffe-machine.ts"],"names":[],"mappings":"AAAA,KAAK,IAAI,GAAG,OAAO,GAAG,QAAQ,GAAG,OAAO,CAAC;AACzC,KAAK,OAAO,GAAG,MAAM,GAAG,OAAO,GAAG,UAAU,CAAC;AAE7C,UAAU,KAAK;IACX,IAAI,EAAE,IAAI,CAAC;IACX,OAAO,EAAE,OAAO,CAAC;CACpB;AAsBD,wBAAgB,oBAAoB,CAAC,KAAK,EAAE,KAAK,UAIhD"}
